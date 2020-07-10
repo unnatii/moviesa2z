@@ -1,0 +1,1 @@
+{"version":3,"sources":["footer.css"],"names":[],"mappings":"AAAA,QACE,cAAe,CACf,MAAO,CACP,QAAS,CACT,UAAW,CACX,wBAAyB,CACzB,UAAY,CACZ,iBACF","file":"main.dd5a3217.chunk.css","sourcesContent":[".footer {\n  position: fixed;\n  left: 0;\n  bottom: 0;\n  width: 100%;\n  background-color: #024064;\n  color: white;\n  text-align: center;\n}\n"]}
