@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web application to  :mag:  movies and tv series using omdb api , react, redux,react hooks .
 
 ## Available Scripts
 
