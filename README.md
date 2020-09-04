@@ -1,4 +1,4 @@
-A web application to  :mag:  movies and tv series using omdb api , react, redux,react hooks .
+A web application to  :mag:  movies and tv series using omdb api , react, redux,react hooks,react-router .
 
 ## Available Scripts
 
